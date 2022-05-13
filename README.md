@@ -1,5 +1,5 @@
 # Hi there, I'm Janella Co! 👋
-I recently graduated with a Bachelor's degree in Computer Science from University of South Florida. I'm currently looking for *entry-level SWE engineering opportunities*! 
+I recently graduated with a Bachelor's degree in Computer Science from University of South Florida. I'm currently looking for *entry-level SWE opportunities*! 
 
 ## Some basic information about me:
 - 📚 I'm currently learning: **C#, Blender, and React**
