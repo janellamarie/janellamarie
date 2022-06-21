@@ -2,7 +2,7 @@
 I recently graduated with a Bachelor's degree in Computer Science from University of South Florida. I'm currently looking for *entry-level SWE opportunities*! 
 
 ## Some basic information about me:
-- 📚 I'm currently learning: **C#, Blender, and React**
+- 📚 I'm currently learning: **Ruby**, and **Go**
 - 📫 You can reach me at: co.janellamarie@gmail.com
 - 👨‍💻 You can view my projects at: [https://github.com/janellamarie](https://github.com/janellamarie)
 - 📄 You can find my resume at: [https://www.linkedin.com/in/janella-marie-co/](https://www.linkedin.com/in/janella-marie-co/), [Google Drive](https://drive.google.com/file/d/13lqi-xiaE5y1PZfLwDWXVea3Nei_Xb48/view)
