@@ -4,7 +4,7 @@ I'm a Computer Science graduate from University of South Florida, and I'm curren
 ## Some basic information about me:
 - 📚 I'm currently learning: **Ruby** (+ _Ruby on Rails_), and **Go**
 - 📫 You can reach me at: co.janellamarie@gmail.com
-- 👨‍💻 You can view my projects at: [https://github.com/janellamarie](https://github.com/janellamarie) and at [https://github.com/janellaco](https://github.com/janellaco)
+- 👨‍💻 You can view my projects at: [https://github.com/janellamarie](GitHub)
 - 📄 You can find my resume at: [https://www.linkedin.com/in/janella-marie-co/](https://www.linkedin.com/in/janella-marie-co/), [Google Drive](https://drive.google.com/file/d/13lqi-xiaE5y1PZfLwDWXVea3Nei_Xb48/view)
 
 ## Languages and Tools
