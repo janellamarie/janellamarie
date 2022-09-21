@@ -1,5 +1,5 @@
 # Hi there, I'm Janella Co! 👋
-I'm a Computer Science graduate from University of South Florida, and I'm currently working as a Software Engineer I for GitHub (I have a separate work account; this is my personal account that I use for personal projects)
+I'm a Computer Science graduate from University of South Florida, and I'm currently working as a Software Engineer I.
 
 ## Some basic information about me:
 - 📚 I'm currently learning: **Ruby** (+ _Ruby on Rails_), and **Go**
