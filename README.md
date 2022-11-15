@@ -1,8 +1,8 @@
 # Hi there, I'm Janella Co! 👋
-I'm a Computer Science graduate from University of South Florida, and I'm currently working as a Software Engineer I.
+I'm a Computer Science graduate from University of South Florida, and I'm currently working as a Software Engineer I. I enjoy learning
 
 ## Some basic information about me:
-- 📚 I'm currently learning: **Ruby** (+ _Ruby on Rails_), and **Go**
+- 📚 I'm currently learning: **React**
 - 📫 You can reach me at: co.janellamarie@gmail.com
 - 👨‍💻 You can view my projects at: [Here, at GitHub!](https://github.com/janellamarie)
 
