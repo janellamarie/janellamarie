@@ -1,5 +1,5 @@
-# Hi there, I'm Janella Co! 👋
-I'm a Computer Science graduate from University of South Florida, and I'm currently working as a Software Engineer I. I enjoy learning
+# Hi there, I'm Janella Co! 🇵🇭👋
+I'm a Computer Science graduate from University of South Florida, and I'm currently working as a Software Engineer I.
 
 ## Some basic information about me:
 - 📚 I'm currently learning: **React**
