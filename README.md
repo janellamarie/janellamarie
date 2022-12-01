@@ -2,7 +2,7 @@
 I'm a Computer Science graduate from University of South Florida, and I'm currently working as a Software Engineer I.
 
 ## Some basic information about me:
-- 📚 I'm currently _trying to_ learn: **React**
+- 📚 I'm currently _trying to_ learn: **React** + **TypeScript**
 - 📫 You can reach me at: co.janellamarie@gmail.com
 - 👨‍💻 You can view my projects at: [Here, at GitHub!](https://github.com/janellamarie)
 
