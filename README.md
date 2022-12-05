@@ -1,4 +1,4 @@
-# Hi there, I'm Janella Co! 🇵🇭👋
+# Hi there, I'm Janella Co! 👋
 I'm a Computer Science graduate from University of South Florida, and I'm currently working as a Full-Stack Software Engineer I.
 
 ## Some basic information about me:
