@@ -1,5 +1,5 @@
 # Hi there, I'm Janella Co! 👋
-I'm a Computer Science graduate from University of South Florida, and I'm currently working as a Full-Stack Software Engineer I.
+I'm a Computer Science graduate from University of South Florida, and I'm currently looking for opportunites
 
 ## Some basic information about me:
 - 📚 I'm currently _trying to_ learn: **React** + **TypeScript**
