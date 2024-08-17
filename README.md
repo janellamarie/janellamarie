@@ -1,5 +1,5 @@
 # Hi there, I'm Janella Co! 👋
-I'm a Computer Science graduate from University of South Florida, and I'm currently looking for entry-level software engineering opportunites!
+I'm a Computer Science graduate from University of South Florida, and I'm currently looking for software engineering opportunites!
 
 ## Some basic information about me:
 - 📫 You can reach me at: co.janellamarie@gmail.com
