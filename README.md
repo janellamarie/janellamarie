@@ -1,5 +1,5 @@
 # Hi there, I'm Janella Co! 👋
-A full-stack software engineer based in Florida. I'm currently looking for software engineering opportunites!
+A front-end software engineer focused on web development based in Florida!
 
 ## Some basic information about me:
 - 📫 You can reach me at: co.janellamarie@gmail.com
